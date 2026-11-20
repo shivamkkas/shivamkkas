@@ -55,7 +55,7 @@
 
 ### 🧩 Problem solving
 
-Data structures &amp; algorithms practice: **100+ problems solved on [LeetCode](https://leetcode.com/u/shivam_kashyap1223/)**, including medium and hard; **48 solved on [NeetCode](https://neetcode.io/user/EmberUzumaki706)** (top 17.7%); and a **5★ Python badge and Python certification on [HackerRank](https://www.hackerrank.com/profile/kashyapboyshiva1)**.
+Data structures &amp; algorithms practice: **100+ problems solved on [LeetCode](https://leetcode.com/u/shivam_kashyap1223/)**, including medium and hard; **top 17.7% on [NeetCode](https://neetcode.io/user/EmberUzumaki706)**; and a **5★ Python badge and Python certification on [HackerRank](https://www.hackerrank.com/profile/kashyapboyshiva1)**.
 
 <a href="https://leetcode.com/u/shivam_kashyap1223/"><img src="https://leetcard.jacoblin.cool/shivam_kashyap1223?theme=dark&font=Inter&ext=heatmap" alt="LeetCode stats"></a>
 
@@ -70,11 +70,7 @@ Data structures &amp; algorithms practice: **100+ problems solved on [LeetCode](
 **[NeetCode](https://neetcode.io/user/EmberUzumaki706)**
 
 <p>
-  <img src="https://img.shields.io/badge/Solved-48-7C3AED?style=flat-square">
-  <img src="https://img.shields.io/badge/Easy-22-00B8A3?style=flat-square">
-  <img src="https://img.shields.io/badge/Medium-23-FFC01E?style=flat-square">
-  <img src="https://img.shields.io/badge/Hard-3-EF4743?style=flat-square">
-  <img src="https://img.shields.io/badge/Rank-Top%2017.7%25-7C3AED?style=flat-square">
+  <img src="https://img.shields.io/badge/NeetCode%20Rank-Top%2017.7%25-7C3AED?style=flat-square">
 </p>
 
 ### 📊 GitHub stats
