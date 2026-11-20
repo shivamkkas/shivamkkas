@@ -4,6 +4,7 @@
 <p align="center">
   <a href="https://shivamkkas.github.io"><img src="https://img.shields.io/badge/Portfolio-shivamkkas.github.io-0f7b6c?style=for-the-badge&logo=googlechrome&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/shivam-kashyap-641565259/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://leetcode.com/u/shivam_kashyap1223/"><img src="https://img.shields.io/badge/LeetCode-shivam__kashyap1223-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"></a>
   <a href="mailto:kashyapboyshivam12@gmail.com"><img src="https://img.shields.io/badge/Email-kashyapboyshivam12%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <a href="tel:+919958716848"><img src="https://img.shields.io/badge/Phone-%2B91%2099587%2016848-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
 </p>
@@ -50,6 +51,12 @@
 
 ➡️ See everything at **[shivamkkas.github.io](https://shivamkkas.github.io)**
 
+### 🧩 Problem solving
+
+Data structures &amp; algorithms practice on [LeetCode](https://leetcode.com/u/shivam_kashyap1223/): **100+ problems solved**, including medium and hard.
+
+<a href="https://leetcode.com/u/shivam_kashyap1223/"><img src="https://leetcard.jacoblin.cool/shivam_kashyap1223?theme=dark&font=Inter&ext=heatmap" alt="LeetCode stats"></a>
+
 ### 📊 GitHub stats
 
 <p>
@@ -61,5 +68,6 @@
 
 - ✉️ **Email:** [kashyapboyshivam12@gmail.com](mailto:kashyapboyshivam12@gmail.com)
 - 📱 **Phone:** [+91 99587 16848](tel:+919958716848)
+- 🧩 **LeetCode:** [shivam_kashyap1223](https://leetcode.com/u/shivam_kashyap1223/)
 - 💼 **LinkedIn:** [shivam-kashyap-641565259](https://www.linkedin.com/in/shivam-kashyap-641565259/)
 - 🌐 **Portfolio:** [shivamkkas.github.io](https://shivamkkas.github.io)
