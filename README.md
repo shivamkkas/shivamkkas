@@ -55,7 +55,7 @@
 
 ### 🧩 Problem solving
 
-Data structures &amp; algorithms practice: **100+ problems solved on [LeetCode](https://leetcode.com/u/shivam_kashyap1223/)**, including medium and hard, **48 on [NeetCode](https://neetcode.io/user/EmberUzumaki706)** (top 17.7%), plus a **5★ Python badge and Python certification on [HackerRank](https://www.hackerrank.com/profile/kashyapboyshiva1)**.
+Data structures &amp; algorithms practice: **100+ problems solved on [LeetCode](https://leetcode.com/u/shivam_kashyap1223/)**, including medium and hard; **48 solved on [NeetCode](https://neetcode.io/user/EmberUzumaki706)** (top 17.7%); and a **5★ Python badge and Python certification on [HackerRank](https://www.hackerrank.com/profile/kashyapboyshiva1)**.
 
 <a href="https://leetcode.com/u/shivam_kashyap1223/"><img src="https://leetcard.jacoblin.cool/shivam_kashyap1223?theme=dark&font=Inter&ext=heatmap" alt="LeetCode stats"></a>
 
