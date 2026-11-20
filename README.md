@@ -4,6 +4,8 @@
 <p align="center">
   <a href="https://shivamkkas.github.io"><img src="https://img.shields.io/badge/Portfolio-shivamkkas.github.io-0f7b6c?style=for-the-badge&logo=googlechrome&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/shivam-kashyap-641565259/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="mailto:kashyapboyshivam12@gmail.com"><img src="https://img.shields.io/badge/Email-kashyapboyshivam12%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="tel:+919958716848"><img src="https://img.shields.io/badge/Phone-%2B91%2099587%2016848-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
 </p>
 
 ---
@@ -54,3 +56,10 @@
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=shivamkkas&show_icons=true&theme=transparent&hide_border=true&count_private=true">
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivamkkas&layout=compact&theme=transparent&hide_border=true&langs_count=8">
 </p>
+
+### 📫 Get in touch
+
+- ✉️ **Email:** [kashyapboyshivam12@gmail.com](mailto:kashyapboyshivam12@gmail.com)
+- 📱 **Phone:** [+91 99587 16848](tel:+919958716848)
+- 💼 **LinkedIn:** [shivam-kashyap-641565259](https://www.linkedin.com/in/shivam-kashyap-641565259/)
+- 🌐 **Portfolio:** [shivamkkas.github.io](https://shivamkkas.github.io)
