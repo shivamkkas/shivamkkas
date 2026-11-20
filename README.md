@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Shivam Kashyap 👋</h1>
-<h3 align="center">Backend &amp; ML Engineer · Go · Python · PyTorch · LLMs · Deployment</h3>
+<h3 align="center">Backend &amp; ML Engineer · Go · Python · PyTorch · LLMs · Kafka/NATS · Deployment</h3>
 
 <p align="center">
   <a href="https://shivamkkas.github.io"><img src="https://img.shields.io/badge/Portfolio-shivamkkas.github.io-0f7b6c?style=for-the-badge&logo=googlechrome&logoColor=white"></a>
@@ -11,6 +11,7 @@
 ### 🧑‍💻 About me
 
 - 🔧 I build **backend services in Go**: RPC services, data tooling and self-hosted infrastructure
+- 📡 I build **event-driven systems** with **Kafka**, **NATS** and **MQTT** messaging
 - 🤖 I work on **LLM and RAG systems** in Python: Ollama, Transformers and document Q&A
 - 🧠 I train **machine learning models** with **PyTorch**, TensorFlow and scikit-learn
 - 🚀 I take models and services to **production deployment** with Docker, Compose, systemd and Linux
@@ -28,6 +29,8 @@
   <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white">
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white">
   <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black">
+  <img src="https://img.shields.io/badge/Apache%20Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white">
+  <img src="https://img.shields.io/badge/NATS-27AAE1?style=flat-square&logo=natsdotio&logoColor=white">
   <img src="https://img.shields.io/badge/MQTT-660066?style=flat-square&logo=mqtt&logoColor=white">
   <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB">
 </p>
