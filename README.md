@@ -6,6 +6,7 @@
   <a href="https://www.linkedin.com/in/shivam-kashyap-641565259/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="https://leetcode.com/u/shivam_kashyap1223/"><img src="https://img.shields.io/badge/LeetCode-shivam__kashyap1223-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"></a>
   <a href="https://www.hackerrank.com/profile/kashyapboyshiva1"><img src="https://img.shields.io/badge/HackerRank-kashyapboyshiva1-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black"></a>
+  <a href="https://neetcode.io/user/EmberUzumaki706"><img src="https://img.shields.io/badge/NeetCode-EmberUzumaki706-7C3AED?style=for-the-badge&logo=rocket&logoColor=white"></a>
   <a href="mailto:kashyapboyshivam12@gmail.com"><img src="https://img.shields.io/badge/Email-kashyapboyshivam12%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <a href="tel:+919958716848"><img src="https://img.shields.io/badge/Phone-%2B91%2099587%2016848-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
 </p>
@@ -54,7 +55,7 @@
 
 ### 🧩 Problem solving
 
-Data structures &amp; algorithms practice: **100+ problems solved on [LeetCode](https://leetcode.com/u/shivam_kashyap1223/)**, including medium and hard, plus a **5★ Python badge and Python certification on [HackerRank](https://www.hackerrank.com/profile/kashyapboyshiva1)**.
+Data structures &amp; algorithms practice: **100+ problems solved on [LeetCode](https://leetcode.com/u/shivam_kashyap1223/)**, including medium and hard, **48 on [NeetCode](https://neetcode.io/user/EmberUzumaki706)** (top 17.7%), plus a **5★ Python badge and Python certification on [HackerRank](https://www.hackerrank.com/profile/kashyapboyshiva1)**.
 
 <a href="https://leetcode.com/u/shivam_kashyap1223/"><img src="https://leetcard.jacoblin.cool/shivam_kashyap1223?theme=dark&font=Inter&ext=heatmap" alt="LeetCode stats"></a>
 
@@ -64,6 +65,16 @@ Data structures &amp; algorithms practice: **100+ problems solved on [LeetCode](
   <img src="https://img.shields.io/badge/Python-5%E2%98%85%20Gold-00EA64?style=flat-square&logo=python&logoColor=white">
   <img src="https://img.shields.io/badge/Python-Certified-00EA64?style=flat-square&logo=hackerrank&logoColor=white">
   <img src="https://img.shields.io/badge/C-2%E2%98%85-00EA64?style=flat-square&logo=c&logoColor=white">
+</p>
+
+**[NeetCode](https://neetcode.io/user/EmberUzumaki706)**
+
+<p>
+  <img src="https://img.shields.io/badge/Solved-48-7C3AED?style=flat-square">
+  <img src="https://img.shields.io/badge/Easy-22-00B8A3?style=flat-square">
+  <img src="https://img.shields.io/badge/Medium-23-FFC01E?style=flat-square">
+  <img src="https://img.shields.io/badge/Hard-3-EF4743?style=flat-square">
+  <img src="https://img.shields.io/badge/Rank-Top%2017.7%25-7C3AED?style=flat-square">
 </p>
 
 ### 📊 GitHub stats
@@ -79,5 +90,6 @@ Data structures &amp; algorithms practice: **100+ problems solved on [LeetCode](
 - 📱 **Phone:** [+91 99587 16848](tel:+919958716848)
 - 🧩 **LeetCode:** [shivam_kashyap1223](https://leetcode.com/u/shivam_kashyap1223/)
 - 🟩 **HackerRank:** [kashyapboyshiva1](https://www.hackerrank.com/profile/kashyapboyshiva1)
+- 🚀 **NeetCode:** [EmberUzumaki706](https://neetcode.io/user/EmberUzumaki706)
 - 💼 **LinkedIn:** [shivam-kashyap-641565259](https://www.linkedin.com/in/shivam-kashyap-641565259/)
 - 🌐 **Portfolio:** [shivamkkas.github.io](https://shivamkkas.github.io)
